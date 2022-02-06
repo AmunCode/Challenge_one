@@ -16,3 +16,4 @@ residing_state = "Florida"
 
 print(f"I am a {denomination} residing in {residing_state}. I am {age} years old. I am about {height} centimeters tall and weight about {weight} pounds. I have {eyes_color} eyes. To tell you a bit more about me, I'm from a {race} race and speak about {spoken_language} languages. Oh, yeah, I was born in the month of {birth_month} and my favorite color is {fav_color}.")
 
+# Good Job using format strings. 
